@@ -3,4 +3,4 @@ eur = 0.86
 
 
 
-def eur_to_usd 
+def eur_to_usd
