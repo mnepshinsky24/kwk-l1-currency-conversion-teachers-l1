@@ -1,5 +1,5 @@
-def usd_to_eur
-
+def usd_to_eur(money)
+eur = 0.86 
 
 
 
