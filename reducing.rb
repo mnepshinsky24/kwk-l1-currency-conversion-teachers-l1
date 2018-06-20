@@ -4,7 +4,7 @@ total = 0
 
 cart_item_prices.each do |price|
   total += price
-  
+
 end
 
-puts big_ticket_prices
+puts total
